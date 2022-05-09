@@ -1,0 +1,287 @@
+body
+{
+    background-color: #202020;
+    color: #F5F5F5;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+ 
+.block
+{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h1.logo
+{
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.rectangle
+{
+padding: 0;
+margin: 0;
+}
+
+.smallblock
+{
+display: inline-block;
+font-size: 18px;
+min-height: 350px;
+width: 300px;
+margin-left: 15px;
+margin-right: 15px;
+
+}
+
+.smallimg
+{
+    width: 300px;
+    height: 300px;
+background-image: url(back.jpg);
+border-top-left-radius: 15px;
+border-top-right-radius: 15px;
+}
+
+.smallimg:hover
+{
+    opacity: 0.8;
+}
+
+a
+{
+    opacity: 1.0;
+}
+
+.description
+{   width: 100%;
+    height: 100%;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: #43ed40;
+    color: #F5F5F5;
+    letter-spacing: 2px;
+    font-weight: 600;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+section.info
+{
+    background-color: #191919;
+    margin-top: 100px;
+}
+
+.sectioninfoblock
+{
+    width: 100%;
+    height: 100%;
+    padding-top: 70px;
+    
+}
+
+header.info
+{
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+.infoblock
+{
+min-height: 400px;
+width: 1200px;
+margin-bottom: 40px;
+margin-top: 40px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.infoimg
+{
+    width: 550px;
+    height: 750px;
+    float: left;
+    margin-bottom: 60px;
+    margin-right: 60px;
+    border-radius: 25px;
+    background-image: url(img/info.jpg);
+}
+
+.infotxt
+{
+    float: left;
+    margin-bottom: 60px;
+}
+
+.sectionwlblock
+{
+    width: 100%;
+    height: 100%;
+    margin-top: 60px;
+}
+
+header.wl
+{
+    text-align: center;
+    font-size: 18px;
+}
+
+.wlblock
+{
+width: 1000px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 40px;
+margin-bottom: 50px;
+}
+
+.wlimg
+{
+float: left;
+margin-right: 20px;
+width: 480px;
+height: 250px;
+background-image: url(img/samolot.jpg);
+border-radius: 25px;
+}
+
+.wltxt
+{
+    float: left;
+    margin-left: 20px;
+    padding: 0;
+    margin-top: 0;
+}
+
+
+
+.connect
+{
+    text-align: center;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    font-size: 22px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 25px;
+    background-color: #43ed40;
+}
+
+a.connect
+{
+text-decoration: none;
+color: white;
+}
+
+.connect:hover
+{
+    opacity: 0.9;
+}
+
+a.connect:hover
+{
+    opacity: 1;
+}
+
+section.squad
+{
+    background-color: #191919;
+}
+
+
+.sectionsquadblock
+{
+    width: 100%;
+    height: 100%;
+    
+  
+}
+
+header.squad 
+{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.squadblock
+{
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.discord
+{
+   
+    width: 300px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 20px;
+    background-color: #101010;
+    border-radius: 25px;
+ 
+}
+
+
+.dc-logo
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+   
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    background-image: url(img/hazard.jpg);
+}
+
+.dcrolew
+{
+    border-radius: 25px;
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color: 	#696969;
+    color: #08e6ec;
+    
+}
+
+.dcrolez
+{
+    border-radius: 25px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: 	#696969;
+    color: #070202;
+}
+   
+.infoblock ul > li
+{
+font-size: 24px;
+}
+
+
+.footersection
+{
+    font-size: 24px;
+    letter-spacing: 2px;
+    text-align: center;
+    padding: 20px;
+
+}
+
